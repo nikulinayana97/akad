@@ -238,6 +238,7 @@
 	margin-bottom: 15px;
 }
 
+
 /*columns*/
 
 .col-1-12{
@@ -288,31 +289,3 @@
 	width: 100%;
 }
 
-/*media*/
-
-@media screen and (min-width: 320px){
-	.container{
-		width: 87.692vw;
-	}
-
-	.benefit_box{
-		width: 100%;
-	}
-
-	.b-photo{
-		width: 100%;
-		text-align: center;
-	}
-
-	.text-block{
-		flex-wrap: wrap;
-	}
-
-	.text-block_1{
-		width: 100%;
-	}
-
-	.text-block_2{
-		width: 100%;
-	}
-}
